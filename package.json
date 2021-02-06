@@ -1,0 +1,22 @@
+{
+  "name": "learningapp",
+  "version": "1.0.0",
+  "description": "for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LarryAmisola/exampleApp.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Larry Amisola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LarryAmisola/exampleApp/issues"
+  },
+  "homepage": "https://github.com/LarryAmisola/exampleApp#readme"
+}
